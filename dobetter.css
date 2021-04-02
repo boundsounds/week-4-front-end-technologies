@@ -1,0 +1,46 @@
+body{
+    padding:  1%;
+  background-color: #ace894 ;
+  background-image: url('plant.jpg') ;
+  
+  
+  
+}
+.background-image{
+    opacity: .5;
+}
+
+h1{
+    text-align: center;
+    color: #4A314D;
+    
+}
+p{
+    text-align: center;
+   
+    border-radius: 1%;
+}
+button{
+   float: right;
+   background-color:#fbeec1;
+}
+.btn{
+    background-color: #6b6570 ;
+    border-color: #4a314d
+}
+.btn-primary:hover,.btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary{
+    background-color: #ace894;
+    border-color: #4a314d
+}
+.card-body{
+    background-color: #4a314d;
+    
+}
+.form-group{
+    background-color: #6b6570;
+  
+}
+.table-dark{
+    background-color: #a8ba9a;
+    opacity: .8;
+}
